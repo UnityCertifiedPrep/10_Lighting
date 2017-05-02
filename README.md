@@ -66,6 +66,3 @@
 + Fog and when to use it.
 + Skyboxes for reflection and ambient light.
 + Adding custom Skyboxes.
-
----
-Find out more about our [Unity Certification Preparation Course](https://www.udemy.com/unitycert?couponCode=GitHubDiscount).
